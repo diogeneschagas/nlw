@@ -32,8 +32,13 @@
     justify-content: center;
 
     margin: auto;
+
+    transition: background 200ms;
 }
 
+.visit a:hover {
+    background: #96feff;
+}
 
 #logo {
     animation-delay: 50ms;
