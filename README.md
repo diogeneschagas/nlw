@@ -6,3 +6,5 @@ Em homenagem ao **Dia das Crianças** que é comemorado no mês de outubro, a Ro
 
 ## Tecnologias utilizadas
 ``JavaScript, Node, HTML, CSS e SQL (Banco de dados)``  
+
+🛠 Esta página está em melhoria contínua... 🧰
